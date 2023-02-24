@@ -1,0 +1,28 @@
+h1{
+    text-decoration: underline;
+}
+
+.classe2{
+    color: #4b4b4b;
+}
+
+.classe2 span{
+    text-decoration: underline;
+}
+
+.classe1{
+    color: #FFFFFF;
+    background-color: #4b4b4b;
+}
+
+.classe1 span{
+    text-decoration: underline;
+    font-weight: bold;
+    color: #FF0044;
+}
+
+p.despedida{
+    text-align: right;
+    color: blue;
+    background-color: yellow;
+}
